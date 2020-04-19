@@ -1,0 +1,13 @@
+C:\Users\E7270\guessNumberGame\bin\Debug\netcoreapp3.1\guessNumberGame.exe
+C:\Users\E7270\guessNumberGame\bin\Debug\netcoreapp3.1\guessNumberGame.deps.json
+C:\Users\E7270\guessNumberGame\bin\Debug\netcoreapp3.1\guessNumberGame.runtimeconfig.json
+C:\Users\E7270\guessNumberGame\bin\Debug\netcoreapp3.1\guessNumberGame.runtimeconfig.dev.json
+C:\Users\E7270\guessNumberGame\bin\Debug\netcoreapp3.1\guessNumberGame.dll
+C:\Users\E7270\guessNumberGame\bin\Debug\netcoreapp3.1\guessNumberGame.pdb
+C:\Users\E7270\guessNumberGame\obj\Debug\netcoreapp3.1\guessNumberGame.csprojAssemblyReference.cache
+C:\Users\E7270\guessNumberGame\obj\Debug\netcoreapp3.1\guessNumberGame.csproj.CoreCompileInputs.cache
+C:\Users\E7270\guessNumberGame\obj\Debug\netcoreapp3.1\guessNumberGame.AssemblyInfoInputs.cache
+C:\Users\E7270\guessNumberGame\obj\Debug\netcoreapp3.1\guessNumberGame.AssemblyInfo.cs
+C:\Users\E7270\guessNumberGame\obj\Debug\netcoreapp3.1\guessNumberGame.dll
+C:\Users\E7270\guessNumberGame\obj\Debug\netcoreapp3.1\guessNumberGame.pdb
+C:\Users\E7270\guessNumberGame\obj\Debug\netcoreapp3.1\guessNumberGame.genruntimeconfig.cache
